@@ -1,0 +1,16 @@
+:root{
+    ---Primary-Color:#B68C5A;
+}
+
+.bg-tan{
+    background-color: var(---Primary-Color) !important;
+}
+.text-EBG{
+    font-family: 'EB Garamond', serif !important;
+}
+.bg-image{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* end */
